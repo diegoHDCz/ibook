@@ -48,4 +48,7 @@ export default {
   build: {
     extractCSS: true
   },
+  generate: {
+    dir: 'dist'
+  },
 }
